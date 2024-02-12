@@ -2,4 +2,4 @@
 
 ## Done with first commit
 
-## set up create here our app
+## set up create here our application
